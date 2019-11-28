@@ -13,7 +13,7 @@ import Login from './components/auth/Login'
 
 export const App = () => {
   function onAuthRequired({ history }) {
-    history.push('/login');
+    history.push('/login'); 
   }
   return (
     <>
