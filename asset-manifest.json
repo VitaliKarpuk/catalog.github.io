@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/catalog.github.io/static/css/main.63101fdd.chunk.css",
-    "main.js": "/catalog.github.io/static/js/main.6f5786bf.chunk.js",
-    "main.js.map": "/catalog.github.io/static/js/main.6f5786bf.chunk.js.map",
+    "main.css": "/catalog.github.io/static/css/main.c963e07a.chunk.css",
+    "main.js": "/catalog.github.io/static/js/main.cde6e206.chunk.js",
+    "main.js.map": "/catalog.github.io/static/js/main.cde6e206.chunk.js.map",
     "runtime-main.js": "/catalog.github.io/static/js/runtime-main.12213d5d.js",
     "runtime-main.js.map": "/catalog.github.io/static/js/runtime-main.12213d5d.js.map",
-    "static/css/2.8b0a5b57.chunk.css": "/catalog.github.io/static/css/2.8b0a5b57.chunk.css",
-    "static/js/2.ec7a05a3.chunk.js": "/catalog.github.io/static/js/2.ec7a05a3.chunk.js",
-    "static/js/2.ec7a05a3.chunk.js.map": "/catalog.github.io/static/js/2.ec7a05a3.chunk.js.map",
+    "static/css/2.0624914a.chunk.css": "/catalog.github.io/static/css/2.0624914a.chunk.css",
+    "static/js/2.8e68a343.chunk.js": "/catalog.github.io/static/js/2.8e68a343.chunk.js",
+    "static/js/2.8e68a343.chunk.js.map": "/catalog.github.io/static/js/2.8e68a343.chunk.js.map",
     "index.html": "/catalog.github.io/index.html",
-    "precache-manifest.335f39fa1a91a7c9c85104ec442471c6.js": "/catalog.github.io/precache-manifest.335f39fa1a91a7c9c85104ec442471c6.js",
+    "precache-manifest.04f8d3b352410a81c5a5d56d67f9f9bc.js": "/catalog.github.io/precache-manifest.04f8d3b352410a81c5a5d56d67f9f9bc.js",
     "service-worker.js": "/catalog.github.io/service-worker.js",
-    "static/css/2.8b0a5b57.chunk.css.map": "/catalog.github.io/static/css/2.8b0a5b57.chunk.css.map",
-    "static/css/main.63101fdd.chunk.css.map": "/catalog.github.io/static/css/main.63101fdd.chunk.css.map",
+    "static/css/2.0624914a.chunk.css.map": "/catalog.github.io/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.c963e07a.chunk.css.map": "/catalog.github.io/static/css/main.c963e07a.chunk.css.map",
     "static/media/0.chunk.js.Без названия": "/catalog.github.io/static/media/0.chunk.js.11d205af.Без названия",
     "static/media/1.00182eb7.jpeg": "/catalog.github.io/static/media/1.00182eb7.00182eb7.jpeg",
     "static/media/1.jpeg": "/catalog.github.io/static/media/1.fcddfde9.jpeg",
@@ -47,7 +47,6 @@
     "static/media/car4.png": "/catalog.github.io/static/media/car4.e9777447.png",
     "static/media/car5.jpeg": "/catalog.github.io/static/media/car5.fdf8e921.jpeg",
     "static/media/car6.jpg": "/catalog.github.io/static/media/car6.77fed81b.jpg",
-    "static/media/okta-sign-in.min.css": "/catalog.github.io/static/media/yubikeyDemo.f10c9db1.png",
     "static/media/colorschememapping.xml": "/catalog.github.io/static/media/colorschememapping.6b7a472a.xml",
     "static/media/filelist.xml": "/catalog.github.io/static/media/filelist.44946fe2.xml",
     "static/media/font-awesome.min.css": "/catalog.github.io/static/media/fontawesome-webfont.fee66e71.woff",
@@ -58,9 +57,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.12213d5d.js",
-    "static/css/2.8b0a5b57.chunk.css",
-    "static/js/2.ec7a05a3.chunk.js",
-    "static/css/main.63101fdd.chunk.css",
-    "static/js/main.6f5786bf.chunk.js"
+    "static/css/2.0624914a.chunk.css",
+    "static/js/2.8e68a343.chunk.js",
+    "static/css/main.c963e07a.chunk.css",
+    "static/js/main.cde6e206.chunk.js"
   ]
 }
